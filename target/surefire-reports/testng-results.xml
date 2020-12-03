@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="86" started-at="2020-10-28T16:02:37 IST" finished-at="2020-10-28T16:02:37 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="86" started-at="2020-10-28T16:02:37 IST" finished-at="2020-10-28T16:02:37 IST">
+      <class name="Myseleniumtool2.mavenjava2.RunTest">
+        <test-method status="PASS" signature="Python()[pri:0, instance:Myseleniumtool2.mavenjava2.RunTest@77cd7a0]" name="Python" duration-ms="0" started-at="2020-10-28T16:02:37 IST" finished-at="2020-10-28T16:02:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Python -->
+        <test-method status="PASS" signature="Seleniumjava()[pri:0, instance:Myseleniumtool2.mavenjava2.RunTest@77cd7a0]" name="Seleniumjava" duration-ms="0" started-at="2020-10-28T16:02:37 IST" finished-at="2020-10-28T16:02:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Seleniumjava -->
+      </class> <!-- Myseleniumtool2.mavenjava2.RunTest -->
+      <class name="Myseleniumtool2.mavenjava2.AppTest">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()[pri:0, instance:Myseleniumtool2.mavenjava2.AppTest@1a968a59]" name="shouldAnswerWithTrue" duration-ms="9" started-at="2020-10-28T16:02:37 IST" finished-at="2020-10-28T16:02:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- Myseleniumtool2.mavenjava2.AppTest -->
+      <class name="Myseleniumtool2.mavenjava2.RealTest">
+        <test-method status="PASS" signature="automation()[pri:0, instance:Myseleniumtool2.mavenjava2.RealTest@4667ae56]" name="automation" duration-ms="1" started-at="2020-10-28T16:02:37 IST" finished-at="2020-10-28T16:02:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automation -->
+        <test-method status="PASS" signature="testing()[pri:0, instance:Myseleniumtool2.mavenjava2.RealTest@4667ae56]" name="testing" duration-ms="0" started-at="2020-10-28T16:02:37 IST" finished-at="2020-10-28T16:02:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+      </class> <!-- Myseleniumtool2.mavenjava2.RealTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

@@ -9,6 +9,8 @@ public class RealTest {
 		System.out.println("testing tool");
 		System.out.println("java bea,");
 		System.out.println("ghode ki khabar");
+		System.out.println("gchudi bazar");
+		System.out.println("begum bazar");
 	}
 	@Test
 	public void automation()

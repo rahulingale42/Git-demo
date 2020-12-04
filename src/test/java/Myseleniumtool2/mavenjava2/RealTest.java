@@ -7,6 +7,8 @@ public class RealTest {
 	public void testing()
 	{
 		System.out.println("testing tool");
+		System.out.println("java bea,");
+		System.out.println("ghode ki khabar");
 	}
 	@Test
 	public void automation()
